@@ -6,4 +6,6 @@
 * [用户篇](chapter1.md)
 * [项目篇](xiang-mu-pian.md)
 * [日程篇](ri-cheng-pian.md)
+* [用户组篇](yong-hu-zu.md)
+* [统计篇](tong-ji-pian.md)
 
