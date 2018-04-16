@@ -20,9 +20,9 @@
 
 2. 打开系统偏好设置
 
-![](/assets/aec379310a55b319c8a378b74aa98226cefc179d.jpg)
+       ![](/assets/aec379310a55b319c8a378b74aa98226cefc179d.jpg)
 
 1. 找到安全
-
+2. 
 
 
