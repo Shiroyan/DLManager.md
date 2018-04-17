@@ -6,6 +6,8 @@
 
 请前往我的[Github仓库](https://github.com/Shiroyan/ProjectManager/releases)下载最新的版本，里面也记录了以往的历史版本。
 
+![](/assets/微信截图_20180417110417.png)
+
 ## Windows安装
 
 直接安装即可，忽略风险提示~
