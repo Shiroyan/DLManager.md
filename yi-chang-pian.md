@@ -4,5 +4,11 @@
 * 先问问龙香服务器爆炸没有、域名爆炸没有
 * 都没有再联系我看看是不是代码爆炸了\_\(:з」∠\)\_
 
-![](/assets/empty.png)
+# ![](/assets/empty.png)已知问题
+
+* 有时候在创建项目的时候会遇到这个情况，选择框不见了。 这个是因为**Electron**和**Element-UI**之间发生了某种冲突，目前暂无解决办法，如不幸遇到此情况，请点击右上角刷新。
+
+
+
+![](file:///C:\Users\Shiro\Documents\Tencent Files\2994787342\Image\C2C\`Y6%28BG3BWDZ59P6~30{{3HY.png)
 
