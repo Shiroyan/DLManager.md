@@ -8,7 +8,5 @@
 
 * 有时候在创建项目的时候会遇到这个情况，选择框不见了。 这个是因为**Electron**和**Element-UI**之间发生了某种冲突，目前暂无解决办法，如不幸遇到此情况，请点击右上角刷新。
 
-![](file:///C:\Users\Shiro\Documents\Tencent Files\2994787342\Image\C2C\`Y6%28BG3BWDZ59P6~30{{3HY.png)
-
-
+![](/assets/exception_known.png)
 
