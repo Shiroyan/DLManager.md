@@ -10,5 +10,4 @@
 * [日报篇](ri-bao-pian.md)
 * [用户组篇](yong-hu-zu.md)
 * [统计篇](tong-ji-pian.md)
-* 日报篇
 
