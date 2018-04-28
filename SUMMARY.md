@@ -10,4 +10,6 @@
 * [日报篇](ri-bao-pian.md)
 * [用户组篇](yong-hu-zu.md)
 * [统计篇](tong-ji-pian.md)
+* [管理员-月度评价](guan-li-5458-yue-du-ping-jia.md)
+* [异常篇](yi-chang-pian.md)
 
